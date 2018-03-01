@@ -1,0 +1,5 @@
+Python v3.5.2
+TKinter v8.6
+
+Python  -> sudo apt-get install python3
+TKinter -> sudo apt-get install python3-tk
